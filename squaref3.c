@@ -11,10 +11,8 @@ int main(void) {
   return 0;
 }
 
-float square (float ai )
-{
-    float ci=0;
-    ci=ai*ai;
-    return ci;
-
+float square(float ai) {
+  float ci = 0;
+  ci = ai * ai;
+  return ci;
 }
